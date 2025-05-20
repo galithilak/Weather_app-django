@@ -1,6 +1,6 @@
 # Weather_app-django
 
-🌦️ Weather Me – A Beautiful Weather App
+#🌦️ Weather Me – A Beautiful Weather App
 A sleek and responsive weather application built with Django and Tailwind CSS that displays real-time weather data using the OpenWeatherMap API.
 
 🔧 Tech Stack
